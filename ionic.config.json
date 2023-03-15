@@ -1,0 +1,7 @@
+{
+  "name": "projectsatu",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
